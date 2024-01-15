@@ -3,3 +3,5 @@ git push
 git branh
 git checkout -b <name>
 git commit
+git diff
+git merge
