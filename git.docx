@@ -1,6 +1,6 @@
-git clone set-url origin git@github.com:aadityapattbhiraman/pdf.git
+git remote set-url origin git@github.com:aadityapattbhiraman/pdf.git
 git push
-git branh
+git branch
 git checkout -b <name>
 git commit
 git diff
